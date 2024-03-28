@@ -1,0 +1,21 @@
+body {
+    background-color: #939393;
+    color: #BFBFBF;
+    margin: 0;
+    display: grid;
+}
+
+.raindbow_text {
+    margin: 0;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 10rem;
+    animation: glow 2s ease-in-out infinite alternate;
+    text-align: center;
+}
+
+.greeting_text {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    text-align: center;
+    border: solid 1px #000;
+}
